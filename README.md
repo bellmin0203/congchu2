@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=congchu&label=Profile%20views&color=0e75b6&style=flat" alt="congchu" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=congchu" alt="congchu" /></a> </p>
+<p align="left"> <a href="https://github.com/congchu/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=congchu" alt="congchu" /></a> </p>
 
-- 🔭 I’m currently working on [영작 연습 사이트](english.gapyear.life)
+- 🔭 I’m currently working on [영작 연습 사이트](https://english.gapyear.life)
 
 
 <h3 align="left">Languages and Tools:</h3>
