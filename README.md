@@ -1,11 +1,12 @@
-[![Gmail Badge](https://img.shields.io/badge/-cookie00421@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:cookie00421@gmail.com)](mailto:cookie00421@gmail.com) [![Github Badge](https://img.shields.io/badge/-congchu-grey?style=flat&logo=github&logoColor=white&link=https://github.com/congchu/)](https://www.github.com/congchu/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://congchu.github.io/portfolio-template-2/)](https://congchu.github.io/portfolio-template-2/) 
-![https://komarev.com/ghpvc/?username=congchu](https://komarev.com/ghpvc/?username=congchu)
 
 ## 👋 &nbsp;풀스택 개발자 정쿠입니다. ☺️
 
 ✔️ 스타트업 환경에 맞는 빠른 주기 개발, 특히 애자일 환경에 익숙합니다.
+
 ✔️ 정확한 소통을 위한, **over 커뮤니케이션**과 **over 도큐멘테이션**을 추구합니다.
+
 ✔️ 가이드 문서, 이슈 트래킹, 배포 히스토리 관리 등 문서 작성 능력이 좋습니다.
+
 ✔️ 개발자의 편한 개발보다 **사용자의 편의**를 더 중요하게 생각합니다.
 
 ### 🛠 &nbsp;Technical Skills
@@ -26,8 +27,9 @@
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
 ### Doing Project
-🌱 청량한 파란 계열의 포트폴리오 [Github](https://congchu.github.io/portfolio-1/)
-🌱 주황 계열의 포트폴리오 [Github](https://congchu.github.io/portfolio-2/)
+🌱 청량한 파란 계열의 포트폴리오 [(Github)](https://congchu.github.io/portfolio-1/)
+
+🌱 주황 계열의 포트폴리오 [(Github)](https://congchu.github.io/portfolio-2/)
 
 ### 🔗 &nbsp;Links
 ✔️[Web 포트폴리오](https://congchu.github.io/portfolio-template-2/)
@@ -36,6 +38,15 @@
 
 ### 💻 &nbsp;Github
 
+[![Github stats](https://github-readme-stats.vercel.app/api?username=congchu&show_icons=true&theme=algolia&include_all_commits=true&count_private=true")](https://github.com/congchu/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=congchu&layout=compact&theme=algolia)](https://github.com/congchu/github-readme-stats)
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=congchu&show_icons=true&include_all_commits=true)](https://github.com/congchu/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=congchu&layout=compact)](https://github.com/congchu/github-readme-stats)
+### 🤝🏻 &nbsp;Connect with Me
+
+<a href="mailto:cookie00421@gmail.com"><img src="https://img.shields.io/badge/-cookie00421@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/jeongkooo"><img src="https://img.shields.io/badge/-@jeongkooo__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/minjung.koo2"><img src="https://img.shields.io/badge/-@minjung.koo2-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+[![Gmail Badge](https://img.shields.io/badge/-cookie00421@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:cookie00421@gmail.com)](mailto:cookie00421@gmail.com) [![Github Badge](https://img.shields.io/badge/-congchu-grey?style=flat&logo=github&logoColor=white&link=https://github.com/congchu/)](https://www.github.com/congchu/)
+![https://komarev.com/ghpvc/?username=congchu](https://komarev.com/ghpvc/?username=congchu)
+
+
