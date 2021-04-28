@@ -1,4 +1,4 @@
-
+<p align=left> <img src=https://komarev.com/ghpvc/?username=congchu alt=congchu /> </p>
 [![Gmail Badge](https://img.shields.io/badge/-cookie00421@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:cookie00421@gmail.com)](mailto:cookie00421@gmail.com) [![Github Badge](https://img.shields.io/badge/-congchu-grey?style=flat&logo=github&logoColor=white&link=https://github.com/congchu/)](https://www.github.com/congchu/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://congchu.github.io/portfolio-template-2/)](https://congchu.github.io/portfolio-template-2/) 
 
 ### 👋 언제 어디서나 즐겁게 일하는 6년차 개발자 정쿠입니다. ☺️
@@ -20,7 +20,7 @@
 
 
 ### 💻 Github
-<p align=left> <img src=https://komarev.com/ghpvc/?username=congchu alt=congchu /> </p>
+
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=congchu&show_icons=true&include_all_commits=true)](https://github.com/congchu/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=congchu&layout=compact)](https://github.com/congchu/github-readme-stats)
