@@ -5,7 +5,6 @@
 
 
 ## 👋 &nbsp;풀스택 개발자 정쿠입니다. ☺️
----
 ✔️ &nbsp;스타트업 환경에 맞는 빠른 주기 개발, 특히 애자일 환경에 익숙합니다.\
 ✔️ &nbsp;정확한 소통을 위한, **over 커뮤니케이션**과 **over 도큐멘테이션**을 추구합니다.\
 ✔️ &nbsp;가이드 문서, 이슈 트래킹, 배포 히스토리 관리 등 문서 작성 능력이 좋습니다.\
@@ -13,8 +12,7 @@
 ✔️ &nbsp;저에 대해 궁금하시다면, 제 <a href="https://congchu.github.io/portfolio-1">웹 사이트</a>를 방문해주세요.
 
 
-### 🛠 &nbsp;Technical Skills
----
+## 🛠 &nbsp;Technical Skills
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
@@ -30,16 +28,14 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;\
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=rstudio)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-<br/>
 
-### 💻 &nbsp;GitHub Analytics
----
+
+## 💻 &nbsp;GitHub Analytics
 [![Github stats](https://github-readme-stats.vercel.app/api?username=congchu&show_icons=true&theme=algolia&include_all_commits=true&count_private=true")](https://github.com/congchu/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=congchu&layout=compact&theme=algolia)](https://github.com/congchu/github-readme-stats)
 
 
 ### 🤝🏻 &nbsp;Contact
----
 <a href="mailto:cookie00421@gmail.com"><img src="https://img.shields.io/badge/-cookie00421@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/jeongkooo"><img src="https://img.shields.io/badge/-@jeongkooo__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/minjung.koo2"><img src="https://img.shields.io/badge/-@minjung.koo2-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
