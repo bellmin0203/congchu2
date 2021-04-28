@@ -9,6 +9,8 @@
 
 ✔️ 개발자의 편한 개발보다 **사용자의 편의**를 더 중요하게 생각합니다.
 
+
+
 ### 🛠 &nbsp;Technical Skills
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -25,24 +27,26 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=rstudio)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+<br/>
 
-### Doing Project
+### 🎁&nbsp;Doing Project
 🌱 청량한 파란 계열의 포트폴리오 [(Github)](https://congchu.github.io/portfolio-1/)
 
 🌱 주황 계열의 포트폴리오 [(Github)](https://congchu.github.io/portfolio-2/)
 
-### 🔗 &nbsp;Links
-✔️[Web 포트폴리오](https://congchu.github.io/portfolio-template-2/)
-✔️ [포트폴리오 ](https://www.notion.so/FullStack-Programmer-12a087212d21471abfce21cb3c347298)
+<br/>
+### 🔗 &nbsp;Porfolio Link
+✔️[Web Porfolio](https://congchu.github.io/portfolio-template-2/)
+✔️[Resume](https://www.notion.so/FullStack-Programmer-12a087212d21471abfce21cb3c347298)
 
-
-### 💻 &nbsp;Github
+<br/>
+### 💻 &nbsp;GitHub Analytics
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=congchu&show_icons=true&theme=algolia&include_all_commits=true&count_private=true")](https://github.com/congchu/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=congchu&layout=compact&theme=algolia)](https://github.com/congchu/github-readme-stats)
 
-### 🤝🏻 &nbsp;Connect with Me
 
+### 🤝🏻 &nbsp;Contact
 <a href="mailto:cookie00421@gmail.com"><img src="https://img.shields.io/badge/-cookie00421@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/jeongkooo"><img src="https://img.shields.io/badge/-@jeongkooo__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/minjung.koo2"><img src="https://img.shields.io/badge/-@minjung.koo2-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
