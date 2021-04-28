@@ -10,7 +10,7 @@
 ✔️ &nbsp;정확한 소통을 위한, **over 커뮤니케이션**과 **over 도큐멘테이션**을 추구합니다.\
 ✔️ &nbsp;가이드 문서, 이슈 트래킹, 배포 히스토리 관리 등 문서 작성 능력이 좋습니다.\
 ✔️ &nbsp;개발자의 편한 개발보다 **사용자의 편의**를 더 중요하게 생각합니다.\
-✔️ &nbsp;저에대해 더 궁금하시다면, 제 <a href="https://congchu.github.io/portfolio-1">웹 사이트</a>를 방문해주세요.
+✔️ &nbsp;저에 대해 궁금하시다면, 제 <a href="https://congchu.github.io/portfolio-1">웹 사이트</a>를 방문해주세요.
 
 
 ### 🛠 &nbsp;Technical Skills
