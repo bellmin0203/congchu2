@@ -1,6 +1,8 @@
 
 <a href="https://congchu.github.io/portfolio-1"><img src="https://img.shields.io/badge/Porfoilo-web-blue"/></a>
 <a href="https://www.notion.so/FullStack-Programmer-12a087212d21471abfce21cb3c347298"><img src="https://img.shields.io/badge/Porfoilo-Docs-blue"/></a>
+![https://komarev.com/ghpvc/?username=congchu](https://komarev.com/ghpvc/?username=congchu)
+
 
 ## 👋 &nbsp;풀스택 개발자 정쿠입니다. ☺️
 
@@ -39,8 +41,7 @@
 <a href="mailto:cookie00421@gmail.com"><img src="https://img.shields.io/badge/-cookie00421@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/jeongkooo"><img src="https://img.shields.io/badge/-@jeongkooo__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/minjung.koo2"><img src="https://img.shields.io/badge/-@minjung.koo2-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-[![Gmail Badge](https://img.shields.io/badge/-cookie00421@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:cookie00421@gmail.com)](mailto:cookie00421@gmail.com) [![Github Badge](https://img.shields.io/badge/-congchu-grey?style=flat&logo=github&logoColor=white&link=https://github.com/congchu/)](https://www.github.com/congchu/)
-![https://komarev.com/ghpvc/?username=congchu](https://komarev.com/ghpvc/?username=congchu)
+<a href="mailto:cookie00421@gmail.com"><img src="https://img.shields.io/badge/-cookie00421@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
 
 
